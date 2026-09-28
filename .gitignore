@@ -4,3 +4,10 @@ __pycache__/
 .env
 .vscode/
 .ipynb_checkpoints/
+
+# Original downloaded dataset
+data/Training Dataset.arff
+data/.old.arff
+
+# Old experiment
+data/dataset2_drift_label_flip.csv
